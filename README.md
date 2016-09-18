@@ -1,4 +1,4 @@
-#JavaScript: Strings Exercise 
+#JavaScript: Dynamic Cards
 
 ## Discription
 
